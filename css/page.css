@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+h2{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+    line-height: 2.2rem;
+    width: 80%;
+    
+}
+ul li{
+    font-size: 20px;
+    padding: 10px;
+}
+ol li{
+    font-size: 20px;
+    padding: 5px;
+    line-height: 2.2rem;
+}
